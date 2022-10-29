@@ -1,5 +1,5 @@
 # Autonomous_Self-burying_Seed_Carrier_Simulations
-The files are to reproduce simulations in the paper "Autonomous Self-burying Seed Carriers for Aerial Seeding" by Luo et al. The simulations are carried out with ABAQUS, whose files are in the folder **ABAQUS**. A few MATLAB codes, in the folder **MATLAB**, are also included to generate material propertis used in the ABAQUS simulations.
+The files are to reproduce simulations in the paper "Autonomous Self-burying Seed Carriers for Aerial Seeding" by Luo et al. The simulations are carried out with ABAQUS, whose files are in the folder **ABAQUS**. A few MATLAB codes, in the folder **MATLAB**, are also included to generate material properties used in the ABAQUS simulations.
 
 **ABAQUS**  
 The files are arranged following the order of the figures presented in the paper.  
