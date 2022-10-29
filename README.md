@@ -2,6 +2,7 @@
 The files are to reproduce simulations in the paper "Autonomous Self-burying Seed Carriers for Aerial Seeding" by Luo et al. The simulations are carried out with ABAQUS. A few MATLAB codes are also included to generate material propertis used in the ABAQUS simulations. 
 
 The ABAQUS simulations files are in the folder **ABAQUS** and arranged following the order of the figures presented in the paper.
+
 (a)	Drilling simulations (Fig. 3b-c)
   (1)	“wood-l44w24-f20-r04-d01-vm33-1tail-s2s-drilling-fri2008-c4-tie-corner-0810-2022.inp” for single-tailed design seed carrier with anchor
   (2)	 “wood-l44w24-f20-r04-d01-vm33-1tail-s2s-drilling-fri2008-c4-tie-0808-2022.inp” for single-tailed design seed carrier without anchor
